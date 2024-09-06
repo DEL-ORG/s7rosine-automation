@@ -20,6 +20,6 @@ checkout:
 checkout_db:
   tag: 6.0-alpine
 assets:
-  tag: "3"
+  tag: "5"
 ui:
   tag: "14"
