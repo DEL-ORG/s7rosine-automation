@@ -20,3 +20,7 @@ assets:
   tag: "6"
 ui:
   tag: "16"
+catalog-api:
+  tag: "33"
+catalog-db:
+  tag: "33"
