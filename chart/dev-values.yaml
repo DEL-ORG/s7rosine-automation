@@ -19,4 +19,4 @@ checkout_db:
 assets:
   tag: "6"
 ui:
-  tag: "a068ac"
+  tag: "16"
