@@ -22,4 +22,4 @@ checkout_db:
 assets:
   tag: 0.8.1
 ui:
-  tag: 0.8.1
+  tag: "14"
