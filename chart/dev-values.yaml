@@ -9,7 +9,7 @@ cart:
 cart_dynamodb:
   tag: "b6c148"
 orders:
-  tag: "73e2b2"
+  tag: "3"
 orders_db_rabbitmq:
   tag: "73e2b2"
 checkout:
